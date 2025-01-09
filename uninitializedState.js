@@ -1,0 +1,1 @@
+This error occurs when you are using a state variable in your functional component and you try to access or modify it before it has been initialized. This often happens if you try to access the state variable inside a function or a useEffect hook before the component has fully mounted.
